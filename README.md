@@ -43,7 +43,7 @@ No **Jupyter Notebook** deste repositório, você encontrará:
 
 ## 🎥 Apresentação em Vídeo
 👉 Assista à explicação completa no YouTube:  
-[![Apresentação no YouTube](https://youtu.be/QrtQ7tfkMhg)
+[![Apresentação no YouTube](https://img.youtube.com/vi/QrtQ7tfkMhg/0.jpg)](https://youtu.be/QrtQ7tfkMhg)
 
 ---
 
